@@ -31,19 +31,13 @@
 <br>
 
 
-<pre><code>💻   **I'm a AOS Develover**        </code></pre>
+<pre><code>💻   **I'm a Web Develover**        </code></pre>
 
 </br>
 <p align="left">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDB&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp </br>
 
-</br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Redux&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp </br>
 
