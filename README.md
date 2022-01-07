@@ -4,7 +4,7 @@
 
 
 
-[![Skills](https://widget.realdeveloper.pro/api/top?stack=react,javascript,redux)](https://github.com/YYZA)
+[![Skills](https://widget.realdeveloper.pro/api/top?stack=javascript,react,redux)](https://github.com/YYZA)
 
 
 
