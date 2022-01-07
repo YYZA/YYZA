@@ -4,7 +4,7 @@
 
 
 
-[![Skills](https://widget.realdeveloper.pro/api/top?stack=Java,Kotlin,MariaDB)](https://github.com/janghyunmin)
+[![Skills](https://widget.realdeveloper.pro/api/top?stack=react,javascript,html,css)](https://github.com/janghyunmin)
 
 
 
