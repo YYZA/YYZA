@@ -22,7 +22,7 @@
 <br>
 
 
-![janghyunmin github stats](https://github-readme-stats.vercel.app/api?username=janghyunmin&show_icons=true&theme=highcontrast)
+![YYZA github stats](https://github-readme-stats.vercel.app/api?username=YYZA&show_icons=true&theme=highcontrast)
 
 <br>
 <br>
