@@ -9,7 +9,7 @@
 
 
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=JavaScript,Firebase,React,CSS,Redux,RESTAPI,axios)](https://github.com/YYZA)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=JavaScript,Firebase,React,CSS,Redux,RESTAPI,axios,redux-thunk,styled-components)](https://github.com/YYZA)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=stockInfomation)](https://github.com/YYZA/stockInfomation)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=StockApp)](https://github.com/YYZA/StockApp)
