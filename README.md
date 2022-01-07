@@ -11,7 +11,7 @@
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=JavaScript,Firebase,React,CSS,Redux,RESTAPI,axios,redux-thunk)](https://github.com/YYZA)
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=YYZA&repo=team-voice-project/frontend.git)](https://github.com/team-voice-project/frontend.git)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=YYZA&repo=5_FE_Insta_CloneCoding)](https://github.com/YYZA/5_FE_Insta_CloneCoding.git)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=StockApp)](https://github.com/janghyunmin/StockApp)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=MoneyPot)](https://github.com/YYZA/MoneyPot)
  
