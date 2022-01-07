@@ -4,16 +4,16 @@
 
 
 
-[![Skills](https://widget.realdeveloper.pro/api/top?stack=react,javascript,firebase)](https://github.com/janghyunmin)
+[![Skills](https://widget.realdeveloper.pro/api/top?stack=react,javascript,redux)](https://github.com/YYZA)
 
 
 
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Java,Kotlin,PHP,Python,C,JavaScript,Firebase,Apache,MariaDB,MySQL)](https://github.com/janghyunmin)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Java,Kotlin,PHP,Python,C,JavaScript,Firebase,Apache,MariaDB,MySQL)](https://github.com/YYZA)
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=stockInfomation)](https://github.com/janghyunmin/stockInfomation)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=StockApp)](https://github.com/janghyunmin/StockApp)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=MoneyPot)](https://github.com/janghyunmin/MoneyPot)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=stockInfomation)](https://github.com/YYZA/stockInfomation)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=StockApp)](https://github.com/YYZA/StockApp)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=janghyunmin&repo=MoneyPot)](https://github.com/YYZA/MoneyPot)
  
 <br>
 <br>
