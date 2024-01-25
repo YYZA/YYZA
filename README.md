@@ -39,6 +39,7 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
      <img src="https://img.shields.io/badge/react-5ed3f3?style=flat-square&logo=react&logoColor=white">
+     <img src="https://img.shields.io/badge/vue-3fb27f?style=flat-square&logo=vue3&logoColor=white">
     </div>
    <br>
 </div>
