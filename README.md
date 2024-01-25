@@ -41,6 +41,7 @@
         <img src="https://img.shields.io/badge/react-5ed3f3?style=flat-square&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/vue-3fb27f?style=flat-square&logo=Vue&logoColor=white">
         <img src="https://img.shields.io/badge/pixi.js-e82868?style=flat-square&logo=pixi.js&logoColor=white">
+        <img src="https://img.shields.io/badge/GSAP-8bf595?style=flat-square&logo=GSAP&logoColor=white">
     </div>
    <br>
 </div>
